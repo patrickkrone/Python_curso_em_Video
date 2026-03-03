@@ -758,3 +758,4 @@ DESAFIO 065
 Crie um programa que leia vários números inteiros pelo teclado. No final da execução, 
 MOSTRE A MÉDIA ENTRE TODOS os valores e qual foi o maior e o menor. O programa deve perguntar
 se ele quer ou não CONTINUAR a digitar valores'''
+#como realizar
